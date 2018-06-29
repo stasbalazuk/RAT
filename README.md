@@ -1,2 +1,2 @@
 # RAT
-RAT
+Remote Access Toolkit
